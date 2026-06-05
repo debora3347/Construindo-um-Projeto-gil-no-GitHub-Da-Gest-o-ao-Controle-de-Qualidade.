@@ -22,3 +22,9 @@ O objetivo do projeto é aplicar de forma prática , de conceitos de metodologia
 .Github Actions
 .Github Project(Kanban)
 
+📁 Estrutura do projeto 
+agile-task-manager/||---.github/||--worflow/|--Ci.yml # Pipeline Github Actions
+(testes automáticos)||--src/||-app.py# Aplicação Flask ( API do sistema)||--models.py#
+Modelo de dados e regra de negócio||--teste/||--test_task.py# testes automatizados com 
+Py test/||---venv/# ambiente virtual python(não vai para o Github) ||--README.md#
+Documentação principal do projeto |--requeriments.txt# lista de dependecias(flask, pytest, etc).
