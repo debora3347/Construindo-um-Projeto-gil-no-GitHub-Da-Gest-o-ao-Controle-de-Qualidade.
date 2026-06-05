@@ -15,6 +15,7 @@ O objetivo do projeto é aplicar de forma prática , de conceitos de metodologia
 . Simular getão de mudança no projeto
 
 ⚒ Tecnologias Ultilizadas 
+
 .Python
 .Flask
 .Pytest
