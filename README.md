@@ -13,3 +13,11 @@ O objetivo do projeto é aplicar de forma prática , de conceitos de metodologia
 .Implemantar  testes automatizados com Pytest 
 .Configurar integraçãi continua com Github Actions
 . Simular getão de mudança no projeto
+
+⚒ Tecnologias Ultilizadas 
+.Python
+.Flask
+.Pytest
+.Github Actions
+.Github Project(Kanban)
+
