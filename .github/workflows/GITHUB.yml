@@ -1,0 +1,30 @@
+
+# Construindo-um-Projeto-gil-no-GitHub-Da-Gest-o-ao-Controle-de-Qualidade.
+Agile Task Manager
+
+Descrição do Projeto 📌  
+Este projeto consiste no desenvolvimento de um sistema básico de gerenciamento de tarefas, criado como atividade prática da disciplina de Engenharia de Software - Centro Universitário UNIFECAF.  
+O objetivo do projeto é aplicar, de forma prática, conceitos de metodologias ágeis, versionamento de código, controle de qualidade e integração contínua utilizando a plataforma do GitHub.
+
+🎯 Objetivos
+- Aplicar conceitos de engenharia de software e metodologia ágil
+- Utilizar o GitHub para versionamento e gestão do projeto 
+- Implementar um sistema básico de gerenciamento de tarefas (CRUD)
+- Criar e organizar tarefas usando o GitHub Projects (Kanban)
+- Implementar testes automatizados com Pytest 
+- Configurar integração contínua com GitHub Actions
+- Simular gestão de mudança no projeto
+
+⚒ Tecnologias Utilizadas
+- Python
+- Flask
+- Pytest
+- GitHub Actions
+- GitHub Projects (Kanban)
+
+📁 Estrutura do projeto 
+agile-task-manager/||---.github/||--worflow/|--Ci.yml # Pipeline Github Actions
+(testes automáticos)||--src/||-app.py# Aplicação Flask ( API do sistema)||--models.py#
+Modelo de dados e regra de negócio||--teste/||--test_task.py# testes automatizados com 
+Py test/||---venv/# ambiente virtual python(não vai para o Github) ||--README.md#
+Documentação principal do projeto |--requeriments.txt# lista de dependecias(flask, pytest, etc).
